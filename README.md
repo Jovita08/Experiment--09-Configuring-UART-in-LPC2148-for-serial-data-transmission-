@@ -1,6 +1,6 @@
 # Experiment--09-Configuring-UART-in-LPC2148-for-serial-data-transmission-
 
-### Name : Virgil Jovita.QAQ
+### Name : Virgil Jovita.A
 ### Roll no: 212221240062
 ### Date of Experiment : 
 
